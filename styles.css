@@ -16,13 +16,14 @@ body{
     background-color: rgb(31,31,31);
     font-family: 'Red Hat Display', sans-serif;
     margin-top: 30px;
-    height: 630px;
+    height: 650px;
 }
 
 .img1{
     border-radius: 150px;
     height: 120px;
     width: 120px;
+    margin-top: 20px;
 }
 
 .txt{
