@@ -29,5 +29,7 @@ body{
 
 .txt2{
     color: rgb(199,229,108);
-    font-size: 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    font-family: 'Red Hat Display', sans-serif;
 }
