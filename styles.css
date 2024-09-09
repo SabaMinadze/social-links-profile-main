@@ -19,8 +19,11 @@ body{
 
 .img1{
     border-radius: 150px;
+    height: 120px;
+    width: 120px;
 }
 
 .txt{
     font-size: 30px;
 }
+
