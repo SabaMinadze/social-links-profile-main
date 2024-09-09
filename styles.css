@@ -16,3 +16,11 @@ body{
     background-color: rgb(31,31,31);
     font-family: 'Red Hat Display', sans-serif;
 }
+
+.img1{
+    border-radius: 150px;
+}
+
+.txt{
+    font-size: 30px;
+}
